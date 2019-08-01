@@ -1,0 +1,29 @@
+.banner {
+  display: flex;
+  background-image: linear-gradient(rgba(20, 20, 20, .5),rgba(20, 20, 20, .5)), url(../../images/hackers.jpg);
+  color: white;
+  height: 300px;
+  background-size: cover;
+  padding: 100px;
+  background-position: center;
+}
+
+.container {
+    width: 900px;
+    margin: auto;
+}
+
+.container p {
+  margin-top: 0;
+  margin-bottom: 24px;
+  opacity: .7;
+}
+
+.banner a {
+  display: inline-block;
+  background-color: #6C62FC;
+  padding : 10px 20px;
+  color: white;
+  border-radius: 4px;
+  font-weight: bold;
+}

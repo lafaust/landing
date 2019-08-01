@@ -1,0 +1,20 @@
+.footer {
+  background-color: #EF6B5F;
+  height: 300px;
+}
+
+.links {
+  padding: 80px;
+  color: white;
+  text-align: center;
+  width: 900px;
+  margin: auto;
+}
+
+.links a {
+  font-size: 30px;
+  color: white;
+  padding: 5px;
+}
+
+
